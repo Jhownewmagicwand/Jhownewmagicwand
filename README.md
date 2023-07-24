@@ -25,6 +25,4 @@
 
 ---
 
----
-
 ![](https://github.com/Jhownewmagicwand/Jhownewmagicwand/blob/main/Malcolm_X.png)
