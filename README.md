@@ -27,4 +27,4 @@
 
 ---
 
-![](https://github.com/Jhownewmagicwand/Jhownewmagicwand/blob/main/MALCOLM-X.png)
+![](https://github.com/Jhownewmagicwand/Jhownewmagicwand/blob/main/Malcolm_X.png)
